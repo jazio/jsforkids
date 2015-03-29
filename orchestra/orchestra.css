@@ -1,0 +1,12 @@
+body {
+  background-color: lightgray;
+  padding: 30%;
+}
+#scene {
+  background-color: white;
+  font-size: 120%;
+  padding: 10px;
+}
+button {
+  padding: 5px;
+}

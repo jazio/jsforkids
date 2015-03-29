@@ -1,0 +1,1 @@
+Write a program to print the numbers from 1 to 100 with the following exceptions: when the number is divisible by 3 print Fizz, when number is divisible y 5 print Buzz, and when is divisible by both 3 and 5 print FizzBuzz.

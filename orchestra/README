@@ -1,0 +1,6 @@
+Create an orchestra
+
+Create a set of buttons each representing an instrument.
+Now assign a sound to each of them.
+When the user is playing the instrument the sound will be played.
+In case the sound file are missing, use replacing words: Tutuu for trumpet. cri-cri for violin etc.
